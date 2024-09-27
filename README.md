@@ -46,7 +46,9 @@ Pomo app clone
 
 ## Installation
 
-Flutter
+```
+Flutter SDK
+```
 
 ## Executing program
 
